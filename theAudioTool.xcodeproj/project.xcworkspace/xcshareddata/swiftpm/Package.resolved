@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "theAudioToolKit",
+        "repositoryURL": "https://github.com/thibaultmaestracci/theAudioToolKit",
+        "state": {
+          "branch": null,
+          "revision": "a39ce51fb4b0676e029284bdbeae352895c84d77",
+          "version": "1.0.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}

@@ -1,0 +1,70 @@
+/* 1/1 Note */
+"1/1 Note" = "1/1 Note";
+
+/* 1/2 Note */
+"1/2 Note" = "1/2 Note";
+
+/* 1/4 Note */
+"1/4 Note" = "1/4 Note";
+
+/* 1/5 Note */
+"1/8 Note" = "1/8 Note";
+
+/* DELAY */
+"DELAY" = "DELAY";
+
+/* DELAY FOR A */
+"DELAY FOR A" = "DELAY FOR A";
+
+/* DELAY FOR B */
+"DELAY FOR B" = "DELAY FOR B";
+
+/* FAT32 4Go limit exceeded */
+"FAT32 4Go limit exceeded" = "FAT32 4Go limit exceeded";
+
+/* FAT32 4Go limit OK */
+"FAT32 4Go limit OK" = "FAT32 4Go limit OK";
+
+/* AVERAGE MODE DESC */
+"Average mode is the more accurate ( uses 21 values )" = "Average mode is the more accurate (uses 21 values)";
+
+/* INSTANT MODE DESC */
+"Instant mode is the quickest ( uses 4 values )" = "Instant mode is the quickest (uses 4 values)";
+
+
+/* BasicNote: name for A */
+"A" = "A";
+
+/* BasicNote: name for A# / Bb */
+"A# / Bb" = "A# / Bb";
+
+/* BasicNote: name for B */
+"B" = "B";
+
+/* BasicNote: name for C */
+"C" = "C";
+
+/* BasicNote: name for C# / Db */
+"C# / Db" = "C# / Db";
+
+/* BasicNote: name for D */
+"D" = "D";
+
+/* BasicNote: name for D# / Eb */
+"D# / Eb" = "D# / Eb";
+
+/* BasicNote: name for E */
+"E" = "E";
+
+/* BasicNote: name for F */
+"F" = "F";
+
+/* BasicNote: name for F# / Gb */
+"F# / Gb" = "F# / Gb";
+
+/* BasicNote: name for G */
+"G" = "G";
+
+/* BasicNote: name for G# / Ab */
+"G# / Ab" = "G# / Ab";
+

@@ -1,0 +1,70 @@
+/* 1/1 Note */
+"1/1 Note" = "Ronde";
+
+/* 1/2 Note */
+"1/2 Note" = "Blanche";
+
+/* 1/4 Note */
+"1/4 Note" = "Noire";
+
+/* 1/5 Note */
+"1/8 Note" = "Croche";
+
+/* DELAY */
+"DELAY" = "RETARD";
+
+/* DELAY FOR A */
+"DELAY FOR A" = "RETARD POUR A";
+
+/* DELAY FOR B */
+"DELAY FOR B" = "RETARD POUR B";
+
+/* FAT32 4Go limit exceeded */
+"FAT32 4Go limit exceeded" = "FAT32 4Go limite dépassée";
+
+/* FAT32 4Go limit OK */
+"FAT32 4Go limit OK" = "FAT32 4Go limite OK";
+
+/* AVERAGE MODE DESC */
+"Average mode is the more accurate ( uses 21 values )" = "Le mode moyenne est le plus précis (utilise 21 valeurs)";
+
+/* INSTANT MODE DESC */
+"Instant mode is the quickest ( uses 4 values )" = "Le mode immédiat est le plus rapide (utilise 4 valeurs)";
+
+
+/* BasicNote: name for A */
+"A" = "La";
+
+/* BasicNote: name for A# / Bb */
+"A# / Bb" = "La# / Sib";
+
+/* BasicNote: name for B */
+"B" = "Si";
+
+/* BasicNote: name for C */
+"C" = "Do";
+
+/* BasicNote: name for C# / Db */
+"C# / Db" = "Do# / Réb";
+
+/* BasicNote: name for D */
+"D" = "Ré";
+
+/* BasicNote: name for D# / Eb */
+"D# / Eb" = "Ré# / Mib";
+
+/* BasicNote: name for E */
+"E" = "Mi";
+
+/* BasicNote: name for F */
+"F" = "Fa";
+
+/* BasicNote: name for F# / Gb */
+"F# / Gb" = "Fa# / Solb";
+
+/* BasicNote: name for G */
+"G" = "Sol";
+
+/* BasicNote: name for G# / Ab */
+"G# / Ab" = "Sol# / Lab";
+

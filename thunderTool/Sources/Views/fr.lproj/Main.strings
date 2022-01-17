@@ -1,0 +1,235 @@
+/* Class = "UILabel"; text = "BITRATE"; ObjectID = "1fF-Gb-aVQ"; */
+"1fF-Gb-aVQ.text" = "DEBIT";
+
+/* Class = "UINavigationItem"; title = "MultiTrack"; ObjectID = "1kG-CY-GAF"; */
+"1kG-CY-GAF.title" = "MultiPiste";
+
+/* Class = "UILabel"; text = "Recording Time :"; ObjectID = "1XI-Qa-5k8"; */
+"1XI-Qa-5k8.text" = "Temps d'enregistrement :";
+
+/* Class = "UILabel"; text = "TEMPO :"; ObjectID = "3dA-UG-6rk"; */
+"3dA-UG-6rk.text" = "TEMPO :";
+
+/* Class = "UILabel"; text = "USB 2.0"; ObjectID = "6d0-su-LY9"; */
+"6d0-su-LY9.text" = "USB 2.0";
+
+/* Class = "UILabel"; text = "17 m"; ObjectID = "7Kt-h8-hFu"; */
+"7Kt-h8-hFu.text" = "17 m";
+
+/* Class = "UILabel"; text = "127.00"; ObjectID = "9rh-id-wlI"; */
+"9rh-id-wlI.text" = "127.00";
+
+/* Class = "UILabel"; text = "Sound speed :"; ObjectID = "abA-An-RAy"; */
+"abA-An-RAy.text" = "Vitesse du son :";
+
+/* Class = "UILabel"; text = "MultiTrack Infos"; ObjectID = "Af1-em-FaV"; */
+"Af1-em-FaV.text" = "MultiPiste Infos";
+
+/* Class = "UILabel"; text = "MONO FILE SIZE :"; ObjectID = "ahG-rz-Vjj"; */
+"ahG-rz-Vjj.text" = "TAILLE FICHIER MONO :";
+
+/* Class = "UISegmentedControl"; Aow-dq-DIN.segmentTitles[0] = "0°c"; ObjectID = "Aow-dq-DIN"; */
+"Aow-dq-DIN.segmentTitles[0]" = "0°c";
+
+/* Class = "UISegmentedControl"; Aow-dq-DIN.segmentTitles[1] = "10°c"; ObjectID = "Aow-dq-DIN"; */
+"Aow-dq-DIN.segmentTitles[1]" = "10°c";
+
+/* Class = "UISegmentedControl"; Aow-dq-DIN.segmentTitles[2] = "//"; ObjectID = "Aow-dq-DIN"; */
+"Aow-dq-DIN.segmentTitles[2]" = "//";
+
+/* Class = "UISegmentedControl"; Aow-dq-DIN.segmentTitles[3] = "20°c"; ObjectID = "Aow-dq-DIN"; */
+"Aow-dq-DIN.segmentTitles[3]" = "20°c";
+
+/* Class = "UISegmentedControl"; Aow-dq-DIN.segmentTitles[4] = "30°c"; ObjectID = "Aow-dq-DIN"; */
+"Aow-dq-DIN.segmentTitles[4]" = "30°c";
+
+/* Class = "UILabel"; text = "1/2"; ObjectID = "ayh-An-ULb"; */
+"ayh-An-ULb.text" = "1/2";
+
+/* Class = "UILabel"; text = "Sample Rate (kHz) :"; ObjectID = "baS-Bt-aCj"; */
+"baS-Bt-aCj.text" = "Fréquence d'échantillonnage (kHz) :";
+
+/* Class = "UILabel"; text = "Sound speed :"; ObjectID = "Bh3-8r-cw1"; */
+"Bh3-8r-cw1.text" = "Vitesse du son :";
+
+/* Class = "UITabBarItem"; title = "MultiTrack"; ObjectID = "bhs-ja-Tq1"; */
+"bhs-ja-Tq1.title" = "MultiPiste";
+
+/* Class = "UINavigationItem"; title = "Delay"; ObjectID = "bqj-zp-teR"; */
+"bqj-zp-teR.title" = "Delay";
+
+/* Class = "UILabel"; text = "TOTAL DISK SPACE :"; ObjectID = "BXh-ub-g71"; */
+"BXh-ub-g71.text" = "ESPACE DISQUE TOTAL :";
+
+/* Class = "UISegmentedControl"; cvn-lg-yaj.segmentTitles[0] = "m"; ObjectID = "cvn-lg-yaj"; */
+"cvn-lg-yaj.segmentTitles[0]" = "m";
+
+/* Class = "UISegmentedControl"; cvn-lg-yaj.segmentTitles[1] = "cm"; ObjectID = "cvn-lg-yaj"; */
+"cvn-lg-yaj.segmentTitles[1]" = "cm";
+
+/* Class = "UISegmentedControl"; cvn-lg-yaj.segmentTitles[2] = "mm"; ObjectID = "cvn-lg-yaj"; */
+"cvn-lg-yaj.segmentTitles[2]" = "mm";
+
+/* Class = "UILabel"; text = "637.9"; ObjectID = "d0r-oV-stD"; */
+"d0r-oV-stD.text" = "637.9";
+
+/* Class = "UILabel"; text = "ms"; ObjectID = "d3q-UG-Wte"; */
+"d3q-UG-Wte.text" = "ms";
+
+/* Class = "UILabel"; text = "170"; ObjectID = "D5s-1w-qa8"; */
+"D5s-1w-qa8.text" = "170";
+
+/* Class = "UILabel"; text = "Frequency :"; ObjectID = "E1m-eG-s2y"; */
+"E1m-eG-s2y.text" = "Fréquence :";
+
+/* Class = "UILabel"; text = "Firewire 400"; ObjectID = "etk-Hd-btb"; */
+"etk-Hd-btb.text" = "Firewire 400";
+
+/* Class = "UILabel"; text = "63.1 Go"; ObjectID = "F67-dt-tp1"; */
+"F67-dt-tp1.text" = "63.1 Go";
+
+/* Class = "UITabBarItem"; title = "Delay"; ObjectID = "F6u-4j-wYJ"; */
+"F6u-4j-wYJ.title" = "Delay";
+
+/* Class = "UILabel"; text = "speed"; ObjectID = "fEa-bQ-xW8"; */
+"fEa-bQ-xW8.text" = "speed";
+
+/* Class = "UILabel"; text = "Result units :"; ObjectID = "g1M-2r-wyE"; */
+"g1M-2r-wyE.text" = "Unité :";
+
+/* Class = "UINavigationItem"; title = "Tempo"; ObjectID = "g1Q-x7-At9"; */
+"g1Q-x7-At9.title" = "Tempo";
+
+/* Class = "UILabel"; text = "speed"; ObjectID = "g9K-Gx-jGG"; */
+"g9K-Gx-jGG.text" = "speed";
+
+/* Class = "UILabel"; text = "Firewire 800"; ObjectID = "GA8-gA-yqU"; */
+"GA8-gA-yqU.text" = "Firewire 800";
+
+/* Class = "UILabel"; text = "Go"; ObjectID = "Gbi-8z-haW"; */
+"Gbi-8z-haW.text" = "Go";
+
+/* Class = "UILabel"; text = "27 Hz"; ObjectID = "H0q-1V-Eiy"; */
+"H0q-1V-Eiy.text" = "27 Hz";
+
+/* Class = "UILabel"; text = "1/8"; ObjectID = "IFL-uW-xrs"; */
+"IFL-uW-xrs.text" = "1/8";
+
+/* Class = "UILabel"; text = "note"; ObjectID = "iWh-FY-bfd"; */
+"iWh-FY-bfd.text" = "note";
+
+/* Class = "UILabel"; text = "lambda 4"; ObjectID = "JA8-IF-kpI"; */
+"JA8-IF-kpI.text" = "lambda 4";
+
+/* Class = "UILabel"; text = "lambda 2"; ObjectID = "lh7-QH-X3i"; */
+"lh7-QH-X3i.text" = "lambda 2";
+
+/* Class = "UILabel"; text = "Speaker A"; ObjectID = "lRa-fq-zU2"; */
+"lRa-fq-zU2.text" = "Haut-Parleur A";
+
+/* Class = "UILabel"; text = "USB 3.0"; ObjectID = "Lrl-3i-l2k"; */
+"Lrl-3i-l2k.text" = "USB 3.0";
+
+/* Class = "UILabel"; text = "Number of tracks :"; ObjectID = "MDp-8Q-ehe"; */
+"MDp-8Q-ehe.text" = "Nombre de pistes :";
+
+/* Class = "UILabel"; text = "Sata II"; ObjectID = "NKp-1O-Cal"; */
+"NKp-1O-Cal.text" = "Sata II";
+
+/* Class = "UILabel"; text = "24 m"; ObjectID = "owC-2B-3ey"; */
+"owC-2B-3ey.text" = "24 m";
+
+/* Class = "UITabBarItem"; title = "WaveLength"; ObjectID = "p1w-ZN-p6v"; */
+"p1w-ZN-p6v.title" = "Longueur d'onde";
+
+/* Class = "UILabel"; text = "1/4"; ObjectID = "PqB-gu-tXV"; */
+"PqB-gu-tXV.text" = "1/4";
+
+/* Class = "UILabel"; text = "COMPATIBLE INTERFACES :"; ObjectID = "qEi-32-ePa"; */
+"qEi-32-ePa.text" = "INTERFACES COMPATIBLE:";
+
+/* Class = "UILabel"; text = "126"; ObjectID = "qlA-e5-dfB"; */
+"qlA-e5-dfB.text" = "126";
+
+/* Class = "UILabel"; text = "Gigabyte"; ObjectID = "rbI-So-YvH"; */
+"rbI-So-YvH.text" = "Gigabyte";
+
+/* Class = "UILabel"; text = "1 h 17 min"; ObjectID = "Rip-NT-Cg2"; */
+"Rip-NT-Cg2.text" = "1 h 17 min";
+
+/* Class = "UISegmentedControl"; rTI-n6-xU6.segmentTitles[0] = "AVERAGE"; ObjectID = "rTI-n6-xU6"; */
+"rTI-n6-xU6.segmentTitles[0]" = "MOYENNE";
+
+/* Class = "UISegmentedControl"; rTI-n6-xU6.segmentTitles[1] = "INSTANT"; ObjectID = "rTI-n6-xU6"; */
+"rTI-n6-xU6.segmentTitles[1]" = "IMMEDIAT";
+
+/* Class = "UILabel"; text = "Speaker B"; ObjectID = "smT-bo-KEe"; */
+"smT-bo-KEe.text" = "Haut-Parleur B";
+
+/* Class = "UILabel"; text = "141.6"; ObjectID = "T3k-Gi-Wce"; */
+"T3k-Gi-Wce.text" = "141.6";
+
+/* Class = "UINavigationItem"; title = "WaveLength"; ObjectID = "TC9-CR-kpw"; */
+"TC9-CR-kpw.title" = "Longueur d'onde";
+
+/* Class = "UILabel"; text = "FAT32 4 Go limit exceeded"; ObjectID = "Tqx-LQ-myv"; */
+"Tqx-LQ-myv.text" = "FAT32 4 Go limit dépassée";
+
+/* Class = "UIButton"; normalTitle = "TAP"; ObjectID = "tqy-Kt-qk2"; */
+"tqy-Kt-qk2.normalTitle" = "TAP";
+
+/* Class = "UILabel"; text = "WAVELENGTH (λ) :"; ObjectID = "ul6-iR-fJt"; */
+"ul6-iR-fJt.text" = "LONGUEUR D'ONDE (λ) :";
+
+/* Class = "UILabel"; text = "DELAY A (12m) :"; ObjectID = "vsK-Pm-JNi"; */
+"vsK-Pm-JNi.text" = "RETARD A (12m) :";
+
+/* Class = "UILabel"; text = "Bit Depth :"; ObjectID = "VyO-1F-w8t"; */
+"VyO-1F-w8t.text" = "Résolution (bits) :";
+
+/* Class = "UILabel"; text = "BPM"; ObjectID = "wJY-E5-avo"; */
+"wJY-E5-avo.text" = "BPM";
+
+/* Class = "UILabel"; text = "541 Mb/s"; ObjectID = "xxG-5W-Bhh"; */
+"xxG-5W-Bhh.text" = "541 Mb/s";
+
+/* Class = "UITabBarItem"; title = "Tempo"; ObjectID = "YQW-sx-N14"; */
+"YQW-sx-N14.title" = "Tempo";
+
+/* Class = "UILabel"; text = "cm"; ObjectID = "ZeI-el-i6O"; */
+"ZeI-el-i6O.text" = "cm";
+
+/* Class = "UISegmentedControl"; ZlZ-Qe-L8f.segmentTitles[0] = "0°c"; ObjectID = "ZlZ-Qe-L8f"; */
+"ZlZ-Qe-L8f.segmentTitles[0]" = "0°c";
+
+/* Class = "UISegmentedControl"; ZlZ-Qe-L8f.segmentTitles[1] = "10°c"; ObjectID = "ZlZ-Qe-L8f"; */
+"ZlZ-Qe-L8f.segmentTitles[1]" = "10°c";
+
+/* Class = "UISegmentedControl"; ZlZ-Qe-L8f.segmentTitles[2] = "//"; ObjectID = "ZlZ-Qe-L8f"; */
+"ZlZ-Qe-L8f.segmentTitles[2]" = "//";
+
+/* Class = "UISegmentedControl"; ZlZ-Qe-L8f.segmentTitles[3] = "20°c"; ObjectID = "ZlZ-Qe-L8f"; */
+"ZlZ-Qe-L8f.segmentTitles[3]" = "20°c";
+
+/* Class = "UISegmentedControl"; ZlZ-Qe-L8f.segmentTitles[4] = "30°c"; ObjectID = "ZlZ-Qe-L8f"; */
+"ZlZ-Qe-L8f.segmentTitles[4]" = "30°c";
+
+/* Class = "UILabel"; text = "mode_info"; ObjectID = "m0b-Jv-mw1"; */
+"m0b-Jv-mw1.text" = "";
+
+// MARK: UPDATE FREQUENCY
+
+/* Class = "UILabel"; text = "waveLengthInfoTitle"; ObjectID = "XS7-CP-3gG"; */
+"XS7-CP-3gG.text" = "Détails";
+
+/* Class = "UILabel"; text = "WI_CLOSEST NOTE"; ObjectID = "A19-fw-9HF"; */
+"A19-fw-9HF.text" = "NOTES (La440)";
+
+/* Class = "UILabel"; text = "WI_DELAY"; ObjectID = "OAn-jU-gzq"; */
+"OAn-jU-gzq.text" = "RETARD";
+
+/* Class = "UILabel"; text = "WI_FREQUENCY"; ObjectID = "Qqs-dv-oLV"; */
+"Qqs-dv-oLV.text" = "FREQUENCE";
+
+/* Class = "UILabel"; text = "WI_WAVELENGTH"; ObjectID = "h5w-Ol-knq"; */
+"h5w-Ol-knq.text" = "LG. D'ONDE";
